@@ -10,7 +10,7 @@ Luego, conecte la BD a Power BI, dentro de la plataforma agregue medidas realiza
 ## Imagen
 
 <h2>Dashboard de Ingresos</h2> 
-<img src="Power Bi/ing.jpg">
+<img src="ing.jpg">
 
 ## Descripcion del Dashboard Egresos
 
