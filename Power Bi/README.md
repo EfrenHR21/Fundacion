@@ -17,11 +17,11 @@ Luego, conecte la BD a Power BI, dentro de la plataforma agregue medidas realiza
 ## Imagen
 
 Dashboard de Ingresos
-<img src="Power Bi/egr.jpg">
+<img src="egr.jpg">
 
 ## Descripcion del Dashboard General
 
 ## Imagen
 
 Dashboard de Ingresos
-<img src="Power Bi/general.jpg">
+<img src="general.jpg">
