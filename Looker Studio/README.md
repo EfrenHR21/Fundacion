@@ -16,7 +16,7 @@ Para el dashboard de Donantes, tambien agregue tarjetas de indicadores, como el 
 </div>
 
 <div display="flex" align="center" >
-<img src="img/prov.jpg" width="400px">
+<a href="https://lookerstudio.google.com/s/nQXYsHLArAc"><img src="img/prov.jpg" width="400px"></a>
 <img src="img/don.jpg" width="400px">
 </div>
 
