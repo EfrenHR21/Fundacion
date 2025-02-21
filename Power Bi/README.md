@@ -12,8 +12,10 @@ Este dashboard nos permite analizar lo relacionado a los ingresos obtenidos, tal
 Para el egreso funciona de manera similar, se puede identificar la cantidad de egresos y el importe total gastado, asi como los 5 proveedores con los que mas se colaboró. Tambien se identifica los egresos por mes y por pais.
 
 <h2>Dashboard de Ingresos y Egresos</h2> 
-<img src="img/ing.jpg">
-<img src="img/egr.jpg">
+<div display="flex">
+<img src="img/ing.jpg" width="100px">
+<img src="img/egr.jpg" width="100px">
+</div>
 
 ## Descripcion del Dashboard General
 Este dashboard realiza una comparacion entre los ingresos y egresos a traves de indicadores, donde se muestra un saldo positivo tanto en importe como en cantidad de donantes. Creé medidas para obtener el promedio de ingresos y egresos. También identifiqué el top 3 de egresos por ciudad y una comparación grafica entre los ingresos y egresos por mes.
