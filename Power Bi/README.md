@@ -1,7 +1,7 @@
 <h1 align="center"> Dashboard Power BI </h1>
 
 ## Descripcion del Proyecto
-<div text-align="justify">
+<div align="justify">
 Este proyecto fue realizado en Power BI, para el cuál utilicé la base de datos proporcionada, después de limpiar los datos, los transformé, otorgandole un id a cada atributo, posterior a ello, cree los campos en Mysql y les agregué los datos.
 Luego, conecte la BD a Power BI, dentro de la plataforma agregue medidas realizadas con DAX para saber el promedio de Ingresos y Egresos.
 </div>
@@ -14,8 +14,8 @@ Para el egreso funciona de manera similar, se puede identificar la cantidad de e
 </div>
 
 <div display="flex" align="center" >
-<img src="img/ing.jpg" width="500px">
-<img src="img/egr.jpg" width="500px">
+<img src="img/ing.jpg" width="400px">
+<img src="img/egr.jpg" width="400px">
 </div>
 
 ## Descripcion del Dashboard General
