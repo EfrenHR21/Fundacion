@@ -42,8 +42,8 @@ donaciones.
 </div>
 
 <div display="flex" align="center" >
-<a href="https://lookerstudio.google.com/s/nQXYsHLArAc"><img src="img/prov.jpg" width="400px"></a>
-<a href="https://lookerstudio.google.com/s/nQXYsHLArAc"><img src="img/don.jpg" width="400px"></a>
+<a href="https://lookerstudio.google.com/s/nQXYsHLArAc" target="blank"><img src="img/prov.jpg" width="400px"></a>
+<a href="https://lookerstudio.google.com/s/nQXYsHLArAc" target="blank"><img src="img/don.jpg" width="400px"></a>
 </div>
 
 ## Descripcion del Dashboard General
@@ -51,4 +51,4 @@ donaciones.
 <div align="justify">
 En este dashboard realizamos una comparacion entre los donantes y proveedores. Para la realizacion de este dashboard fue necesario gestionar las combinaciones, es decir, combinar las diferentes paginas de la base de datos y crear joins. Empezando por las tarjetas, donde tenemos los ingresos y gastos con su meta y limite respectivamente, tambien una comparacion entre ambos y los maximos importes realizados. Como primer grafico tenemos una comparacion de los movimientos realizados a traves de los meses. De forma similar tenemos una comparacion ahora entre los importes a traves de los meses. Por ultimo, coloque dos indicadores, comparando el importe por año comparandolo con el importe total del año anterios, demostrando si el saldo es positivo o no.
 </div>
-<a href="https://lookerstudio.google.com/s/nQXYsHLArAc"><img src="img/gen.jpg"></a>
+<a href="https://lookerstudio.google.com/s/nQXYsHLArAc" target="blank"><img src="img/gen.jpg"></a>
