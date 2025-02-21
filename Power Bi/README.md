@@ -12,9 +12,9 @@ Este dashboard nos permite analizar lo relacionado a los ingresos obtenidos, tal
 Para el egreso funciona de manera similar, se puede identificar la cantidad de egresos y el importe total gastado, asi como los 5 proveedores con los que mas se colaboró. Tambien se identifica los egresos por mes y por pais.
 
 <h2>Dashboard de Ingresos y Egresos</h2> 
-<div display="flex">
-<img src="img/ing.jpg" width="100px">
-<img src="img/egr.jpg" width="100px">
+<div display="flex" align="center" >
+<img src="img/ing.jpg" width="300px">
+<img src="img/egr.jpg" width="300px">
 </div>
 
 ## Descripcion del Dashboard General
